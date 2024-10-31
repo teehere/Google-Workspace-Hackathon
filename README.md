@@ -5,7 +5,7 @@ Google Workspace Hackthon 2024 by CodeError
 - [Introduction](#Introduction)
 - [Problem](#Problem)
 - [Requirement](#Requirement)
-- [Pichdeck](#Pichdeck)
+- [Pitchdeck](#Pitchdeck)
 - [Lisence](#Lisence)
 
 ## Introduction
@@ -25,7 +25,7 @@ This project is aim to create a **user-friendly business management solutions** 
   -  Deal with the problem that SME faced in Google Workspace Tools
   -  Develop solutions by using Apps Script to create a prototype
 
-## Pichdeck
+## Pitchdeck
 https://www.canva.com/design/DAGLx60F51s/KNgferuDEXfWp8SXlL9sTA/edit
 
 ## Lisence
